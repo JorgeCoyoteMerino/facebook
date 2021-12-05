@@ -1,0 +1,10 @@
+
+.share-btn{
+    cursor: pointer;
+    margin: 5px;
+}
+
+.share-btn img {
+    width: 32px;
+    height: 32px;
+}
